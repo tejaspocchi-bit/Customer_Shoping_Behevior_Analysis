@@ -11,7 +11,7 @@ This project analyzes customer shopping behavior for a retail company to uncover
 
 The objective is to answer the key business question:
 
-> *How can a company leverage customer shopping data to identify trends, improve engagement, and optimize marketing strategies?* :contentReference[oaicite:0]{index=0}
+> *How can a company leverage customer shopping data to identify trends, improve engagement, and optimize marketing strategies?* 
 
 Using a dataset of ~3,900 transactions, this project delivers actionable insights through Python-based data analysis, SQL querying, and Power BI visualization.
 
@@ -21,7 +21,7 @@ Using a dataset of ~3,900 transactions, this project delivers actionable insight
 A retail company observed changing customer purchasing patterns across demographics, product categories, and sales channels. The goal is to:
 - Understand customer behavior  
 - Identify key factors influencing purchases (discounts, reviews, seasonality)  
-- Improve customer retention and sales strategies :contentReference[oaicite:1]{index=1}  
+- Improve customer retention and sales strategies   
 
 ---
 
@@ -91,7 +91,7 @@ The Power BI dashboard provides:
 
 ## 📊 Dashboard Preview
 
-![Dashboard](dashboard/dashboard.png)
+![Dashboard](Dashboard/customer_behavior_dashboard.png)
 
 ---
 
