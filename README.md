@@ -132,15 +132,22 @@ Power BI
 
 📁 Project Structure
 
-customer-shopping-behavior-analysis/
+customer-shopping-behavior-analysis
+
 │
+
 ├── data
 
 ├── sql
+
 ├── analysis
+
 ├── dashboard
+
 ├── presentation
+
 ├── reports
+
 └── README.md
 
 ---
