@@ -33,7 +33,7 @@ A retail company observed changing customer purchasing patterns across demograph
   - Purchase details (Product, Category, Amount, Season)
   - Behavioral data (Discounts, Reviews, Frequency, Subscription)
 
-- **Data Issue:** Missing values in review ratings handled using median imputation :contentReference[oaicite:2]{index=2}  
+- **Data Issue:** Missing values in review ratings handled using median imputation   
 
 ---
 
@@ -52,7 +52,7 @@ A retail company observed changing customer purchasing patterns across demograph
 - Data loading and structure validation  
 - Handling missing values  
 - Feature engineering (age groups, purchase frequency)  
-- Data standardization (snake_case columns) :contentReference[oaicite:3]{index=3}  
+- Data standardization (snake_case columns)   
 
 ### 2. Exploratory Data Analysis (EDA)
 - Customer demographics analysis  
@@ -66,7 +66,7 @@ Performed advanced queries to extract insights:
 - Top-rated products  
 - Customer segmentation (New, Returning, Loyal)  
 - Subscription vs non-subscription behavior  
-- Revenue by age group :contentReference[oaicite:4]{index=4}  
+- Revenue by age group   
 
 ### 4. Dashboard Development
 - Built an interactive **Power BI dashboard**
@@ -89,7 +89,9 @@ The Power BI dashboard provides:
 - Customer segmentation insights  
 - Revenue by category and age group  
 
-*(Refer to dashboard screenshot in repository)* :contentReference[oaicite:5]{index=5}  
+## 📊 Dashboard Preview
+
+![Dashboard](dashboard/dashboard.png)
 
 ---
 
@@ -98,7 +100,7 @@ The Power BI dashboard provides:
 - Discounts influence purchases but high spenders still exist without heavy dependency  
 - Loyal customers form the largest segment (~3000+ users)  
 - Clothing and accessories are top-performing categories  
-- Young adults contribute the highest revenue share :contentReference[oaicite:6]{index=6}  
+- Young adults contribute the highest revenue share   
 
 ---
 
@@ -107,8 +109,8 @@ The Power BI dashboard provides:
 - Optimize discount strategies to maintain profit margins  
 - Promote high-rated products for better conversions  
 - Focus marketing on high-value customer segments  
-- Encourage subscription-based engagement for retention :contentReference[oaicite:7]{index=7}  
-
+- Encourage subscription-based engagement for retention
+  
 ---
 
 ## ▶️ How to Run
