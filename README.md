@@ -128,31 +128,38 @@ Power BI
 - Open .pbix file in Power BI Desktop
 - Refresh dataset
 
+---
+
 📁 Project Structure
 
 customer-shopping-behavior-analysis/
 │
-├── data/
-├── sql/
-├── analysis/
-├── dashboard/
-├── presentation/
-├── reports/
+├── data
+├── sql
+├── analysis
+├── dashboard
+├── presentation
+├── reports
 └── README.md
+
+---
 
 🚀 Conclusion
 
 This project demonstrates end-to-end data analytics capabilities — from raw data processing to business insight generation. It highlights practical skills in Python, SQL, and Power BI while solving a real-world retail problem.
 
+---
+
 📎 Project Assets
 
-Dataset
-
+* Dataset
 * Python Scripts / Notebook
 * SQL Queries
 * Power BI Dashboard
 * Final Report
 * Presentation (PPT)
+
+---
 
 👨‍💻 Author
 
